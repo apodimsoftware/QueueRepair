@@ -1,4 +1,4 @@
-ITSYS is a useful software made for IT professionals note their tasks.
+QueueRepair is a useful software made for IT professionals note their tasks.
 
 Credits:
 - App icon by Google Material Icons

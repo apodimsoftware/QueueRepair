@@ -1,8 +1,8 @@
-ITSYS Privacy Policy
+QueueRepair Privacy Policy
 Last Updated: 16/8/2025
 
 1. Data Collection
-ITSYS stores the following information locally on your device:
+QueueRepair stores the following information locally on your device:
 
 Device details (name, serial number)
 
@@ -13,7 +13,7 @@ Optional: Contact information (if provided voluntarily for repair tracking)
 No personal data is collected, shared, or transmitted externally.
 
 2. Data Storage & Security
-All data is saved in an ITRepairData folder next to the application.
+All data is saved in an QueueRepairData folder next to the application.
 
 Data remains on your device unless you manually transfer it.
 
@@ -25,7 +25,7 @@ ITSYS does not transmit data to servers, third parties, or advertisers.
 No analytics or usage tracking is implemented.
 
 4. User Rights
-Access/Delete Data: Manually modify or delete the ITRepairData folder.
+Access/Delete Data: Manually modify or delete the QueueRepairData folder.
 
 Corrections: Edit entries directly within the app.
 
@@ -34,3 +34,4 @@ Updates will be noted in the app’s README.txt. Continued use implies acceptanc
 
 Contact
 For questions, email: apodimapps@gmail.com
+

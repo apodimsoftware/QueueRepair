@@ -1,5 +1,5 @@
 QueueRepair Privacy Policy
-Last Updated: 16/8/2025
+Last Updated: 23/11/2025
 
 1. Data Collection
 QueueRepair stores the following information locally on your device:
@@ -34,4 +34,5 @@ Updates will be noted in the app’s README.txt. Continued use implies acceptanc
 
 Contact
 For questions, email: apodimapps@gmail.com
+
 

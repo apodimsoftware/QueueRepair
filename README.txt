@@ -6,6 +6,9 @@ Credits:
 
 Made by Apodim's Software.
 
+-----Updates-----
+1.0.1: Branding rename
+
 
 Open source at: https://github.com/apodimsoftware/itsys
 
@@ -18,3 +21,4 @@ VirusTotal flags this code as malicious because (its false-positives):
 These don't happen with the python file itself. Only because it is packed with Pyinstaller.
 
 We guarantee it doesn't do any damage to your computer, unless you download it from the wrong source.
+
